@@ -6,4 +6,4 @@ Rules of the game are
 --> Scissors beat paper
 --> paper beats rock
 
-ui version 1.0 has been successfully created.
+UI version 1.0 has been successfully created.

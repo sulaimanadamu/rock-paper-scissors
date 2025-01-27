@@ -87,7 +87,6 @@ function playRound(humanChoice, computerChoice, displayDomElement){
         computerScore += 1
        comments.textContent = "You win, Paper beats Rock anyday anytime"
     }
-
     else if( computerChoice === "ROCK" && humanChoice === "SCISSORS"){
          computerScore += 1
          comments.textContent = "Computer Won!"
